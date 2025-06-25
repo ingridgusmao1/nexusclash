@@ -44,7 +44,6 @@
         .crown-icon {
             width: 40px;
             height: 40px;
-            background: var(--accent-yellow);
             border-radius: 50%;
             display: flex;
             align-items: center;
@@ -394,7 +393,6 @@
             color: var(--bright-yellow);
         }
 
-        /* Responsive Design */
         @media (max-width: 768px) {
             .hero h1 {
                 font-size: 2.5rem;
